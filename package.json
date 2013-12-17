@@ -1,0 +1,16 @@
+{
+    "name": "Jira-Transitions",
+    "version": "0.0.1",
+    "main": "./lib/transitioner.js",
+    "description": "Plugin to Transition JIRA issues in a CI workflow.",
+    "author": {
+        "name": "Nick Weingartner",
+        "email": "nweingartner@maned.com"
+    },
+    "readmeFilename": "README.md",
+    "license": "GPLv3",
+    "dependencies": {
+        "jira": "0.8.1",
+        "underscore": "latest"
+    }
+}
