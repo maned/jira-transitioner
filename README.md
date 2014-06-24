@@ -3,6 +3,8 @@ jira-transitioner
 
 A small NPM module that transitions JIRA issues (for Continuous Intergration Workflows).
 
+[![NPM](https://nodei.co/npm/jira-transitioner.png)](https://nodei.co/npm/jira-transitioner/)
+
 ###What is Does
 
 Jira Transitioner is a Node.js module (npm structure) that connects with your instance of JIRA and transitions issues from one step to another.
